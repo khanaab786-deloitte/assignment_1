@@ -1,0 +1,8 @@
+1st push
+create table team_details(
+	slno serial PRIMARY KEY,
+	team varchar(50),
+	captain varchar(50),
+	owner varchar(50),
+	homeground varchar(50)
+)
